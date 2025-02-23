@@ -24,7 +24,7 @@ const BulbScreen = () => {
   const [candleImage, setCandleImage] = useState('/assets/cake.png');
   const [showMessageButton, setShowMessageButton] = useState(false);
   const [isShowingMessage, setIsShowingMessage] = useState(false);
-  const [messages, setMessages] = useState(["Wish you a very Happy Birthday ra! 🎉🎂 You bring so much joy into my life. Wishing you a day filled with love, laughter, and unforgettable moments. May your day be as beautiful and vibrant as you are, and may the year ahead be filled with endless blessings and dreams fulfilled🥳🎈."]);
+  const [messages, setMessages] = useState(["Wish you a very Happy Birthday ra! 🎉🎂 U r 21 grew so fast idiot. You bring so much joy into my life. Wishing you a day filled with love, laughter, and unforgettable moments. May your day be as beautiful and vibrant as you are, and may the year ahead be filled with endless blessings and dreams fulfilled🥳🎈.Once again sorry idiot anyways as i always say take care of urself if u r fine everyone would be fyn sare na dont think about others focus on urself and great things on their for u idiot, dont think too much stress urself sare na. I will be wishing and hoping that this year should be dominant year and u get whtever u aspire for gaary.Just saying tnx for being a moral support for me last year was really tough but u r warrior hehehehe. Once again happiest birthday idiot gaaru eeeeeee"]);
   const [currentMessageIndex, setCurrentMessageIndex] = useState(0);
   const [messageAnimation, setMessageAnimation] = useState(false);
 
